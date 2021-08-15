@@ -9,6 +9,7 @@ html,
 body {
   height: 100vh;
   font-family: 'Poppins', sans-serif;
+  background: rgb(24, 24, 24);
 }
 
 #app {
