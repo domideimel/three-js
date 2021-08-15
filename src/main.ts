@@ -7,7 +7,7 @@ import {
 const gui = new dat.GUI();
 
 // Canvas
-const canvas = document.querySelector('canvas');
+const canvas = document.querySelector('#app');
 
 // Scene
 const scene = new Scene();
@@ -71,6 +71,7 @@ scene.add(camera);
 /**
  * Renderer
  */
+// @ts-ignore
 const renderer = new WebGLRenderer({ canvas });
 renderer.setSize(sizes.width, sizes.height);
 renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
