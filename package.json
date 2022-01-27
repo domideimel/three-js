@@ -15,6 +15,6 @@
     "vite-plugin-imagemin": "^0.4.3"
   },
   "dependencies": {
-    "three": "^0.131.3"
+    "three": "^0.137.0"
   }
 }
