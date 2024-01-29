@@ -12,7 +12,7 @@
     "dat.gui": "^0.7.9",
     "typescript": "^5.3.3",
     "vite": "^5.0.12",
-    "vite-plugin-imagemin": "^0.4.3"
+    "vite-plugin-imagemin": "^0.6.1"
   },
   "dependencies": {
     "three": "^0.160.0"
