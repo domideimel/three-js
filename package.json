@@ -9,7 +9,7 @@
   "devDependencies": {
     "@types/dat.gui": "^0.7.7",
     "@types/three": "^0.160.0",
-    "dat.gui": "^0.7.7",
+    "dat.gui": "^0.7.9",
     "typescript": "^5.3.3",
     "vite": "^2.9.17",
     "vite-plugin-imagemin": "^0.4.3"
