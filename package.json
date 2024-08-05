@@ -8,13 +8,13 @@
   },
   "devDependencies": {
     "@types/dat.gui": "^0.7.13",
-    "@types/three": "^0.166.0",
+    "@types/three": "^0.167.1",
     "dat.gui": "^0.7.9",
     "typescript": "^5.5.4",
     "vite": "^5.3.5",
     "vite-plugin-imagemin": "^0.6.1"
   },
   "dependencies": {
-    "three": "^0.167.0"
+    "three": "^0.167.1"
   }
 }
