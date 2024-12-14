@@ -10,7 +10,7 @@
     "@types/dat.gui": "^0.7.13",
     "@types/three": "^0.170.0",
     "dat.gui": "^0.7.9",
-    "typescript": "^5.6.3",
+    "typescript": "^5.7.2",
     "vite": "^6.0.3",
     "vite-plugin-imagemin": "^0.6.1"
   },
