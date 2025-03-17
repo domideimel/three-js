@@ -11,7 +11,7 @@
     "@types/three": "^0.174.0",
     "dat.gui": "^0.7.9",
     "typescript": "^5.8.2",
-    "vite": "^6.2.1",
+    "vite": "^6.2.2",
     "vite-plugin-imagemin": "^0.6.1"
   },
   "dependencies": {
